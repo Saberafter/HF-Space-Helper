@@ -430,3 +430,4 @@
 | [2025-05-17](https://github.com/Saberafter/HF-Space-Helper/commits/5be423ba6c91eb637409cf101bacb7b370935cb0/docs/index.html) |  |
 | [2025-05-17](https://github.com/Saberafter/HF-Space-Helper/commits/6dd131f716eaf8d4da67880331eab4592841823d/docs/index.html) |  |
 | [2025-05-17](https://github.com/Saberafter/HF-Space-Helper/commits/d3a376e215e98263742f11d46aa6b89f18bd3360/docs/index.html) |  |
+| [2025-05-18](https://github.com/Saberafter/HF-Space-Helper/commits/08a178ce9449a9ed75f6dbdc9bc569762e624d6b/docs/index.html) |  |
